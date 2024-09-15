@@ -2,8 +2,10 @@ boto3==1.28.2
 pandas==2.0.3
 sqlalchemy==2.0.17
 transformers==4.33.0
-streamlit==1.22.0
-pymysql==1.1.2
+streamlit==1.38.0
+pymysql==1.1.0
 numpy==1.25.0
 matplotlib==3.8.0
 seaborn==0.13.3
+tensorflow==2.15.0 
+torch==2.0.0
